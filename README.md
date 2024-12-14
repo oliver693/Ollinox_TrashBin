@@ -9,4 +9,5 @@ Instead of player dropping unwanted items down, you move it to the TrashBin.
 -  [ox_inventory](https://github.com/overextended/ox_inventory/releases/tag/v2.43.3)
 
 
-https://forum-cfx-re.akamaized.net/original/5X/b/f/7/a/bf7ab51199babb8995b08b9c76995677acc28940.jpeg
+![bf7ab51199babb8995b08b9c76995677acc28940](https://github.com/user-attachments/assets/b15a6d17-d335-4898-9efd-b81291104277)
+
